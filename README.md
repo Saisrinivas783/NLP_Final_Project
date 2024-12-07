@@ -13,7 +13,7 @@ This project aims to identify duplicate questions on Quora using Natural Languag
   - Siamese BERT
 - Evaluation metrics including accuracy and Spearman's rank correlation
 
-## Requirements\
+## Requirements
 - Python
 - Libraries: pandas, numpy, scikit-learn, xgboost, torch, transformers
 - 
@@ -33,9 +33,9 @@ This project aims to identify duplicate questions on Quora using Natural Languag
 - Additional features (question length ratios, Jaccard similarity, etc.)
   
 ## Results
-For Logistic Regression: Test Accuracy: 0.76137
-For XG-Boost : Test Accuracy: 0.82481
-For Bert: Test Loss: 0.0548, Test Correlation: 0.6199
+- For Logistic Regression: Test Accuracy: 0.76137
+- For XG-Boost : Test Accuracy: 0.82481
+- For Bert: Test Loss: 0.0548, Test Correlation: 0.6199
 
 ## Future Work
 
